@@ -3,5 +3,5 @@ MONGODB_URI=mongodb://localhost:27017/
 MONGODB_DB=test
 MONGODB_COLLECTION_TEST=test
 JWT_SECRET="your Custom key"
-GOOGLE_APP_PASSWORD="app password from google account."
+GOOGLE_APP_PASSWORD="app password from google account. https://support.google.com/accounts/answer/185833?hl=en "
 GOOGLE_ACCOUNT="your email id"
