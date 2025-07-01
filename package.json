@@ -1,0 +1,28 @@
+{
+  "name": "backend-self",
+  "version": "1.0.0",
+  "description": "Learning backend from various sources",
+  "keywords": [
+    "Backend",
+    "Documentation",
+    "roadmap.sh",
+    "chatgpt"
+  ],
+  "license": "ISC",
+  "author": "Lakshay Bajaj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.2",
+    "nodemailer": "^7.0.3"
+  }
+}

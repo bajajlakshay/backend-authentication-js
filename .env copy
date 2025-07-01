@@ -1,0 +1,7 @@
+PORT=3000
+MONGODB_URI=mongodb://localhost:27017/
+MONGODB_DB=test
+MONGODB_COLLECTION_TEST=test
+JWT_SECRET="your Custom key"
+GOOGLE_APP_PASSWORD="app password from google account."
+GOOGLE_ACCOUNT="your email id"
