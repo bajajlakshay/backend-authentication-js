@@ -53,7 +53,7 @@ resetPassword = async (req,res) => {
     }
 }
 module.exports = { 
-    forgotPassword,
+    // forgotPassword,
     verifyOtp,
     resetPassword
 }
